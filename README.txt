@@ -26,6 +26,10 @@ To Run UI using Streamlit:
 * Run app.py file using command ‘streamlit run app.py’
 * This will show matching citation for each response in a table format.
 
+Result / Output :
+- After running main.py file, a json output file will be created as shown in 'output_images/output_json'
+- After running app.py, UI will shown on browser as shown in 'output_images/output_streamlit'
+
 
 Note:
 
